@@ -6,4 +6,5 @@ void main(List<String> args){
   int a, b,   c;
   String strA = "A";
   double d; int i;
+
 }
